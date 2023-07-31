@@ -38,5 +38,5 @@ jobs:
         # Path to the Dockerfile
         file: ./Dockerfile
         push: true
-        tags: antoniodevops/go_ci:${{github.ref_name}}
+        tags: antoniodevops/go_ci:${{github.run_number}}
         
