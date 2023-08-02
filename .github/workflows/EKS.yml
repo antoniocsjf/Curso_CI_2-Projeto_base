@@ -28,8 +28,4 @@ jobs:
     
     - name: Kubectl tool installer
       uses: Azure/setup-kubectl@v3
-      
-    
-
-      
-      
+   
